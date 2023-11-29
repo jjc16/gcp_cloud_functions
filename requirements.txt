@@ -2,3 +2,4 @@ functions-framework
 flask
 google-cloud
 pybase64
+google-cloud-kms
